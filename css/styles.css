@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+pre{
+  text-align: center;
+  border: 1px dashed blue;
+}
+
+div{
+  color: pink;
+}
+
+.span_outside_div{
+  color: purple;
+}
